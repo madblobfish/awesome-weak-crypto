@@ -91,7 +91,9 @@ The recommendations are my personal opinion and are possibly not secure for all 
 * [TEA](https://en.wikipedia.org/wiki/Tiny_Encryption_Algorithm)
 
 ### avoid
-* [Blowfish](https://en.wikipedia.org/wiki/Blowfish_(cipher)): not broken but weak
+* [Blowfish](https://en.wikipedia.org/wiki/Blowfish_(cipher)): not broken, but weak
+* [Chiasmus](https://en.wikipedia.org/wiki/Chiasmus_(cipher)): unpublished algorithm
+* [Libelle](https://en.wikipedia.org/wiki/Libelle_(cipher)): unpublished algorithm
 
 ## Post-quantum cryptography
 * []
