@@ -40,10 +40,14 @@ The recommendations are my personal opinion and are possibly not secure for all 
 * [SHA-3](https://en.wikipedia.org/wiki/SHA-3)
 
 ## Cryptographically secure pseudo-random number generators
+* []
+
 ### recommendation
 * use `/dev/urandom` on linux
 
 ## Digital signatures
+* []
+
 ### avoid
 * [DSA](https://en.wikipedia.org/wiki/Digital_Signature_Algorithm): although not broken it is hard to implement correctly and should be avoided.
 * [ECDSA](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm): simmlar to DSA above.
@@ -65,10 +69,14 @@ The recommendations are my personal opinion and are possibly not secure for all 
 * [Scrypt](https://en.wikipedia.org/wiki/Scrypt): Argon2 should be considered first
 
 ## Key exchange algorithms
+* []
+
 ## Message Authentication Codes
 * [DAA](https://en.wikipedia.org/wiki/Data_Authentication_Algorithm)
 
 ## Secret sharing, Secret Splitting, Key Splitting, M of N algorithms
+* []
+
 ## Symmatric (secret key) Encryption
 * [3DES](https://en.wikipedia.org/wiki/Triple_DES)
 * [A5/1](https://en.wikipedia.org/wiki/A5/1)
@@ -86,7 +94,13 @@ The recommendations are my personal opinion and are possibly not secure for all 
 * [Blowfish](https://en.wikipedia.org/wiki/Blowfish_(cipher)): not broken but weak
 
 ## Post-quantum cryptography
-## Proof-of-work algorithms
-## Other weak algorithms
-### padding schemes
+* []
 
+## Proof-of-work algorithms
+* []
+
+## Other weak algorithms
+* []
+
+### padding schemes
+* []
