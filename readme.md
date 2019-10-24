@@ -5,9 +5,9 @@ The recommendations are my personal opinion and are possibly not secure for all 
 
 ## Asymmetric (public key) Encryption
 * [Merkle–Hellman knapsack cryptosystem](https://en.wikipedia.org/wiki/Merkle%E2%80%93Hellman_knapsack_cryptosystem)
-* [ElGamal encryption system](https://en.wikipedia.org/wiki/ElGamal_encryption): malleable
 
 ### avoid
+* [ElGamal encryption system](https://en.wikipedia.org/wiki/ElGamal_encryption): malleable and should only be used with authentication. There exist secure variants.
 * [Naccache–Stern knapsack cryptosystem](https://en.wikipedia.org/wiki/Naccache%E2%80%93Stern_knapsack_cryptosystem): although not broken it lacks provable security and should be avoided.
 
 ### recommendation
